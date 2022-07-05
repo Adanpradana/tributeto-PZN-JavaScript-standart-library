@@ -1,0 +1,9 @@
+{
+  "firstName": "adan",
+  "lastName": "pradana",
+  "address": {
+    "country": "indonesia",
+    "state": " Sumenep"
+  },
+  "hobbies": ["coding", "travelling", "singAlong"]
+}
